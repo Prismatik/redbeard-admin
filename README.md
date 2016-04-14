@@ -1,4 +1,4 @@
-# Redbeard Admin
+# Redbeard Admin [![Build Status](https://travis-ci.com/Prismatik/redbeard-admin.svg?token=31ttRGpUkXrervGufjuh&branch=master)](https://travis-ci.com/Prismatik/redbeard-admin)
 
 Redbeard Admin is an accompaniment to [Redbeard](https://github.com/Prismatik/redbeard)
 and provides an admin UI layer for your Redbeard API.
